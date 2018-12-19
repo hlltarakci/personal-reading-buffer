@@ -13,3 +13,5 @@ https://medium.freecodecamp.org/how-to-work-with-react-the-right-way-to-avoid-so
 https://egghead.io/lessons/react-course-overview-advanced-react-component-patterns
 
 https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
+https://github.com/alex/what-happens-when
